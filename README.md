@@ -18,3 +18,5 @@ of certain issues. There are 1534 rows and 13 relevant columns.
 | Minnesota    | MN            | MRO           | East North Central |            -0.1 | 2012-06-19 04:30:00 | 2012-06-20 23:00:00       | severe weather     |        42.5       |              nan |                68200 |     2.31734e+06 |          278466 |           11010 |       2.60681e+06 |
 | Minnesota    | MN            | MRO           | East North Central |             1.2 | 2015-07-18 02:00:00 | 2015-07-19 07:00:00       | severe weather     |        29         |              250 |               250000 |     2.37467e+06 |          289044 |            9812 |       2.67353e+06 |
 
+
+<iframe src="assets/outage_duration.html" width=800 height=600 frameBorder=0></iframe>
